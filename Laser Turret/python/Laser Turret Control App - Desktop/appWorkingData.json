@@ -1,0 +1,7 @@
+{
+    "cameraPort": 0,
+    "maxSelectedTargetsCount": 7,
+    "crossHairPosition": [325, 219],
+    "arduinoPort": 6,
+    "arduinoSerialCommunicationBaudrate": 115200
+}
